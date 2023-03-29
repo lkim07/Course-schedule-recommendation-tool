@@ -228,6 +228,259 @@ course(cpsc259, 101, finish, 0900).
 course(cpsc259, 101, day, "mwf").
 course(cpsc259, 101, term, 1).
 
+% --year 3
+course(cpsc302, 201, title, "Numerical Computation for Algebraic Problems").
+course(cpsc302, 201, start, 1400).
+course(cpsc302, 201, finish, 1500).
+course(cpsc302, 201, day, "mwf").
+course(cpsc302, 201, term, 2).
+
+course(cpsc303, 201, title, "Numerical Approximation and Discretization").
+course(cpsc303, 201, start, 1300).
+course(cpsc303, 201, finish, 1400).
+course(cpsc303, 201, day, "mwf").
+course(cpsc303, 201, term, 2).
+
+course(cpsc304, 101, title, "Introduction to Relational Databases").
+course(cpsc304, 101, start, 1530).
+course(cpsc304, 101, finish, 1700).
+course(cpsc304, 101, day, "tt").
+course(cpsc304, 101, term, 1).
+
+course(cpsc304, 102, title, "Introduction to Relational Databases").
+course(cpsc304, 102, start, 1230).
+course(cpsc304, 102, finish, 1400).
+course(cpsc304, 102, day, "tt").
+course(cpsc304, 102, term, 1).
+
+course(cpsc304, 201, title, "Introduction to Relational Databases").
+course(cpsc304, 201, start, 1530).
+course(cpsc304, 201, finish, 1700).
+course(cpsc304, 201, day, "mwf").
+course(cpsc304, 201, term, 2).
+
+course(cpsc304, 202, title, "Introduction to Relational Databases").
+course(cpsc304, 202, start, 1700).
+course(cpsc304, 202, finish, 1830).
+course(cpsc304, 202, day, "tt").
+course(cpsc304, 202, term, 2).
+
+course(cpsc310, 101, title, "Introduction to Software Engineering").
+course(cpsc310, 101, start, 1230).
+course(cpsc310, 101, finish, 1400).
+course(cpsc310, 101, day, "tt").
+course(cpsc310, 101, term, 1).
+
+course(cpsc310, 102, title, "Introduction to Software Engineering").
+course(cpsc310, 102, start, 1400).
+course(cpsc310, 102, finish, 1530).
+course(cpsc310, 102, day, "tt").
+course(cpsc310, 102, term, 1).
+
+course(cpsc310, 201, title, "Introduction to Software Engineering").
+course(cpsc310, 201, start, 1100).
+course(cpsc310, 201, finish, 1230).
+course(cpsc310, 201, day, "tt").
+course(cpsc310, 201, term, 2).
+
+course(cpsc310, 202, title, "Introduction to Software Engineering").
+course(cpsc310, 202, start, 1400).
+course(cpsc310, 202, finish, 1530).
+course(cpsc310, 202, day, "tt").
+course(cpsc310, 202, term, 2).
+
+course(cpsc310, 203, title, "Introduction to Software Engineering").
+course(cpsc310, 203, start, 0900).
+course(cpsc310, 203, finish, 1030).
+course(cpsc310, 203, day, "tt").
+course(cpsc310, 203, term, 2).
+
+course(cpsc312, 201, title,"Functional and Logic Programming").
+course(cpsc312, 201, start, 1200).
+course(cpsc312, 201, finish, 1300).
+course(cpsc312, 201, day, "mwf").
+course(cpsc312, 201, term, 2).
+
+course(cpsc313, 101, title, "Computer Hardware and Operating Systems").
+course(cpsc313, 101, start, 1600).
+course(cpsc313, 101, finish, 1700).
+course(cpsc313, 101, day, "mwf").
+course(cpsc313, 101, term, 1).
+
+course(cpsc313, 102, title, "Computer Hardware and Operating Systems").
+course(cpsc313, 102, start, 1100).
+course(cpsc313, 102, finish, 1200).
+course(cpsc313, 102, day, "mwf").
+course(cpsc313, 102, term, 1).
+
+course(cpsc313, 203, title, "Computer Hardware and Operating Systems").
+course(cpsc313, 203, start, 1100).
+course(cpsc313, 203, finish, 1200).
+course(cpsc313, 203, day, "mwf").
+course(cpsc313, 203, term, 2).
+
+course(cpsc313, 204, title, "Computer Hardware and Operating Systems").
+course(cpsc313, 204, start, 1400).
+course(cpsc313, 204, finish, 1500).
+course(cpsc313, 204, day, "mwf").
+course(cpsc313, 204, term, 2).
+
+course(cpsc314, 101, title, "Computer Graphics").
+course(cpsc314, 101, start, 1530).
+course(cpsc314, 101, finish, 1700).
+course(cpsc314, 101, day, "tt").
+course(cpsc314, 101, term, 1).course(cpsc314, 101, title, "Computer Graphics").
+
+course(cpsc314, 101, title, "Computer Graphics").
+course(cpsc314, 201, start, 1000).
+course(cpsc314, 201, finish, 1100).
+course(cpsc314, 201, day, "mwf").
+course(cpsc314, 201, term, 2).
+
+course(cpsc317, 101, title, "Internet Computing").
+course(cpsc317, 101, start, 0900).
+course(cpsc317, 101, finish, 1000).
+course(cpsc317, 101, day, "mwf").
+course(cpsc317, 101, term, 1).
+
+course(cpsc317, 201, title, "Internet Computing").
+course(cpsc317, 201, start, 1500).
+course(cpsc317, 201, finish, 1600).
+course(cpsc317, 201, day, "mwf").
+course(cpsc317, 201, term, 2).
+
+course(cpsc317, 202, title, "Internet Computing").
+course(cpsc317, 202, start, 1300).
+course(cpsc317, 202, finish, 1400).
+course(cpsc317, 202, day, "mwf").
+course(cpsc317, 202, term, 2).
+
+course(cpsc319, 201, title, "Software Engineering Project").
+course(cpsc319, 201, start, 1830).
+course(cpsc319, 201, finish, 2000).
+course(cpsc319, 201, day, "mwf").
+course(cpsc319, 201, term, 2).
+
+course(cpsc320, 101, title, "Intermediate Algorithm Design and Analysis").
+course(cpsc320, 101, start, 1400).
+course(cpsc320, 101, finish, 1500).
+course(cpsc320, 101, day, "mwf").
+course(cpsc320, 101, term, 1).
+
+course(cpsc320, 102, title, "Intermediate Algorithm Design and Analysis").
+course(cpsc320, 102, start, 0900).
+course(cpsc320, 102, finish, 1000).
+course(cpsc320, 102, day, "mwf").
+course(cpsc320, 102, term, 1).
+
+course(cpsc320, 103, title, "Intermediate Algorithm Design and Analysis").
+course(cpsc320, 103, start, 1100).
+course(cpsc320, 103, finish, 1200).
+course(cpsc320, 103, day, "mwf").
+course(cpsc320, 103, term, 1).
+
+course(cpsc320, 201, title, "Intermediate Algorithm Design and Analysis").
+course(cpsc320, 201, start, 1000).
+course(cpsc320, 201, finish, 1100).
+course(cpsc320, 201, day, "mwf").
+course(cpsc320, 201, term, 2).
+
+course(cpsc320, 202, title, "Intermediate Algorithm Design and Analysis").
+course(cpsc320, 202, start, 1600).
+course(cpsc320, 202, finish, 1700).
+course(cpsc320, 202, day, "mwf").
+course(cpsc320, 202, term, 2).
+
+course(cpsc322, 101, title, "Introduction to Artificial Intelligence").
+course(cpsc322, 101, start, 1400).
+course(cpsc322, 101, finish, 1530).
+course(cpsc322, 101, day, "tt").
+course(cpsc322, 101, term, 1).
+
+course(cpsc322, 101, title, "Introduction to Artificial Intelligence").
+course(cpsc322, 101, start, 1400).
+course(cpsc322, 101, finish, 1530).
+course(cpsc322, 101, day, "tt").
+course(cpsc322, 101, term, 1).
+
+course(cpsc322, 102, title, "Introduction to Artificial Intelligence").
+course(cpsc322, 102, start, 1700).
+course(cpsc322, 102, finish, 1830).
+course(cpsc322, 102, day, "tt").
+course(cpsc322, 102, term, 1).
+
+course(cpsc322, 201, title, "Introduction to Artificial Intelligence").
+course(cpsc322, 201, start, 1400).
+course(cpsc322, 201, finish, 1530).
+course(cpsc322, 201, day, "tt").
+course(cpsc322, 201, term, 2).
+
+course(cpsc330, 102, title, "Applied Machine Learning").
+course(cpsc330, 102, start, 1100).
+course(cpsc330, 102, finish, 1230).
+course(cpsc330, 102, day, "tt").
+course(cpsc330, 102, term, 1).
+
+course(cpsc330, 201, title, "Applied Machine Learning").
+course(cpsc330, 201, start, 1400).
+course(cpsc330, 201, finish, 1530).
+course(cpsc330, 201, day, "tt").
+course(cpsc330, 201, term, 2).
+
+course(cpsc330, 202, title, "Applied Machine Learning").
+course(cpsc330, 202, start, 1530).
+course(cpsc330, 202, finish, 1700).
+course(cpsc330, 202, day, "tt").
+course(cpsc330, 202, term, 2).
+
+course(cpsc330, 203, title, "Applied Machine Learning").
+course(cpsc330, 203, start, 1700).
+course(cpsc330, 203, finish, 1830).
+course(cpsc330, 203, day, "tt").
+course(cpsc330, 203, term, 2).
+
+course(cpsc340, 101, title, "Machine Learning and Data Mining").
+course(cpsc340, 101, start, 1200).
+course(cpsc340, 101, finish, 1300).
+course(cpsc340, 101, day, "mwf").
+course(cpsc340, 101, term, 1).
+
+course(cpsc340, 102, title, "Machine Learning and Data Mining").
+course(cpsc340, 102, start, 1600).
+course(cpsc340, 102, finish, 1700).
+course(cpsc340, 102, day, "mwf").
+course(cpsc340, 102, term, 1).
+
+course(cpsc340, 201, title, "Machine Learning and Data Mining").
+course(cpsc340, 201, start, 1200).
+course(cpsc340, 201, finish, 1300).
+course(cpsc340, 201, day, "mwf").
+course(cpsc340, 201, term, 2).
+
+course(cpsc340, 202, title, "Machine Learning and Data Mining").
+course(cpsc340, 202, start, 1400).
+course(cpsc340, 202, finish, 1500).
+course(cpsc340, 202, day, "mwf").
+course(cpsc340, 202, term, 2).
+
+course(cpsc344, 101, title, "Introduction to Human Computer Interaction Methods").
+course(cpsc344, 101, start, 1700).
+course(cpsc344, 101, finish, 1830).
+course(cpsc344, 101, day, "tt").
+course(cpsc344, 101, term, 1).
+
+course(cpsc344, 201, title, "Introduction to Human Computer Interaction Methods").
+course(cpsc344, 201, start, 1700).
+course(cpsc344, 201, finish, 1830).
+course(cpsc344, 201, day, "tt").
+course(cpsc344, 201, term, 2).
+
+course(cpsc368, 201, title, "Databases in Data Scienc").
+course(cpsc368, 201, start, 1400).
+course(cpsc368, 201, finish, 1530).
+course(cpsc368, 201, day, "tt").
+course(cpsc368, 201, term, 2).
+
 % -- Year 4 courses
 course(cpsc402, 101, title, "Numerical Linear Algebra").
 course(cpsc402, 101, start, 900).
