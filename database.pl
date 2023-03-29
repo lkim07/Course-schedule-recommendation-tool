@@ -548,17 +548,17 @@ course(cpsc424, 101, finish, 1300).
 course(cpsc424, 101, day, "mwf").
 course(cpsc424, 101, term, 1).
 
-course(cpsc425, title, "Computer Vision").
-course(cpsc425, start, 1700).
-course(cpsc425, finish, 2000).
-course(cpsc425, day, "mwf").
-course(cpsc425, term, 1).
+course(cpsc425, 101, title, "Computer Vision").
+course(cpsc425, 101, start, 1700).
+course(cpsc425, 101, finish, 2000).
+course(cpsc425, 101, day, "mwf").
+course(cpsc425, 101, term, 1).
 
-course(cpsc425, title, "Computer Vision").
-course(cpsc425, start, 1530).
-course(cpsc425, finish, 1700).
-course(cpsc425, day, "mwf").
-course(cpsc425, term, 2).
+course(cpsc425, 201, title, "Computer Vision").
+course(cpsc425, 201, start, 1530).
+course(cpsc425, 201, finish, 1700).
+course(cpsc425, 201, day, "mwf").
+course(cpsc425, 201, term, 2).
 
 course(cpsc430, 101, title, "Computers and Society").
 course(cpsc430, 101, start, 1230).
