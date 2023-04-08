@@ -22,24 +22,17 @@ verb(L,L,start,C,C).
 prep(["on" | L],L,on,C,C).
 prep(L,L,on,C,C).
 
-/*
-% DICTIONARY
-% adj(L0,L1,Ind,C0,C1) is true if L0-L1
-% is an adjective that imposes constraints C0-C1 Ind
-adj(["large" | L],L,Ind, [large(Ind)|C],C).
-adj([LangName,"speaking" | L],L,Ind, [language(Ind, Lang), name(Lang, LangName)|C],C).
-*/
-
 noun(["class" | L],L,Ind, _ ,C).
 noun([N | L], L, Ind, C,C) :- name(Ind, N). % Parse fails if there is no entity for name
+
 
 % reln(L0,L1,Sub,Obj,C0,C1) is true if L0-L1 is a relation on individuals Sub and Obj
 reln(["start", "on" | L], L, Obj, Sub, [starts_on(Obj, Sub)|C], C).
 
+
 % question(Question,QR,Ind) is true if Query provides an answer about Ind to Question
-question(["What", "classes", "start", "on", "Monday" | L], L1, Ind, C0, C1) :-
-    noun_phrase(["classes"], L2, Ind, C0, C1),
-    course(Course, _, day, "mwf").
+question(["What" | L], L1, Ind, C0, C1) :-
+    noun_phrase(L,L1,Ind,C0,C1).
 
 % ask(Q,A) gives answer A to question Q
 ask(Q,A) :-
@@ -67,3 +60,4 @@ q(Ans) :-
 q(Ans) :-
     write("No more answers\n"),
     q(Ans).
+
