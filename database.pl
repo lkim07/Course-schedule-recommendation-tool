@@ -329,7 +329,8 @@ course(cpsc314, 101, title, "Computer Graphics").
 course(cpsc314, 101, start, 1530).
 course(cpsc314, 101, finish, 1700).
 course(cpsc314, 101, day, "tt").
-course(cpsc314, 101, term, 1).course(cpsc314, 101, title, "Computer Graphics").
+course(cpsc314, 101, term, 1).
+course(cpsc314, 101, title, "Computer Graphics").
 
 course(cpsc314, 101, title, "Computer Graphics").
 course(cpsc314, 201, start, 1000).
