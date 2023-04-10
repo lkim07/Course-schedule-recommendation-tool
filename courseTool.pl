@@ -1,4 +1,4 @@
-:- include("/Users/stevenslater/Desktop/cpsc312proj2/Course-schedule-recommendation-tool/database.pl").
+:- include("database.pl").
 :- use_module(library(readutil)).
 
 % SUGGEST courses functions
